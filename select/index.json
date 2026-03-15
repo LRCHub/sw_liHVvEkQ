@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】猫 / 獅子神レオナ【DISH// (北村匠海)】",
+  "base_artist": "歌ってみた(Cover Song)",
+  "createdAt": "2026-03-15T14:41:21.372261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "猫",
+      "artist": "クレイジーケンバンド",
+      "has_synced": true,
+      "path": "select/01_猫_クレイジーケンバンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "猫",
+      "artist": "Crazy Ken Band",
+      "has_synced": true,
+      "path": "select/02_猫_Crazy_Ken_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "猫",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/03_猫_DISH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "猫",
+      "artist": "吉田 美奈子",
+      "has_synced": false,
+      "path": "select/04_猫_吉田_美奈子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "猫",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/05_猫_DISH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "猫 Dish//",
+      "artist": "k k",
+      "has_synced": true,
+      "path": "select/06_猫_Dish_k_k.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "猫 〜THE FIRST TAKE ver.〜",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/07_猫_〜THE_FIRST_TAKE_ver.〜_DISH.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "猫 -The First Take Version",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/08_猫_-The_First_Take_Version_DISH.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DISH// (北村匠海) - 猫 / THE FIRST TAKE",
+      "artist": "THE FIRST TAKE",
+      "has_synced": true,
+      "path": "select/09_DISH__(北村匠海)_-_猫___THE_FIRST_TAKE_THE_FIRST_TAKE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "猫 ～THE FIRST TAKE ver.～",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/10_猫_~THE_FIRST_TAKE_ver.~_DISH.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "猫 〜THE FIRST TAKE ver.〜 - Neko -The First Take Version",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/11_猫_〜THE_FIRST_TAKE_ver.〜_-_Neko_-The_First_Take_Version_DISH.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "猫 - Neko",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/12_猫_-_Neko_DISH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "猫 - 2018.10.7 Live at 上野恩賜公園 野外ステージ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/13_猫_-_2018.10.7_Live_at_上野恩賜公園_野外ステージ_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猫猫日和",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_猫猫日和_伊東歌詞太郎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "猫猫日和",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_02_猫猫日和_伊東歌詞太郎.txt"
+    }
+  ]
+}
